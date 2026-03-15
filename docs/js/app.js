@@ -4,7 +4,7 @@
 // Este sistema foi desenvolvido para fins didáticos.
 // Ele contém pelo menos um defeito intencional de
 // implementação que deve ser descoberto por meio
-// de testes automatizados.
+// de testes automatizados.sss
 // ============================================
 
 let alunos = [];
